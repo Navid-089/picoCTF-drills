@@ -1,0 +1,23 @@
+Make these changes in level5.py
+
+
+def level_5_pw_check(user_pw):
+    
+    user_pw_hash = hash_pw(user_pw)
+    
+    if( user_pw_hash == correct_pw_hash ):
+        print("Welcome back... your flag, user:")
+        decryption = str_xor(flag_enc.decode(), user_pw)
+        print(decryption)
+        return
+  
+
+passwords = open('dictionary.txt', 'r')
+pos_pw_list = passwords.readlines()
+for i in range(len(pos_pw_list)):
+    level_5_pw_check((pos_pw_list[i])[:-1])
+
+
+run 
+
+python3 level5.py 

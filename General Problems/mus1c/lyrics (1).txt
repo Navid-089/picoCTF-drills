@@ -1,0 +1,15 @@
+HTML and CSS
+
+
+Frameworks:
+React, Angular, Vue 
+
+URL->Uniform Resource Locator
+
+HTTP -> Hyper Text Transfer Protocol 
+HTTPS -> Hyper Text Transfer Protocol + Encryption
+
+127.0.0.1 
+
+*** VALIDATION WEBSITES 
+

@@ -1,0 +1,7 @@
+Run- 
+
+git log 
+
+This will show the log of commits. 
+
+then git show <commit_ID> 

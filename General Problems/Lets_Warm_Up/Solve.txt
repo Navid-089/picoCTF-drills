@@ -1,0 +1,3 @@
+Easiest, hex->dec->find it in ASCII table 
+
+picoCTF{p}

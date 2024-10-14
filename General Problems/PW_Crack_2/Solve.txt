@@ -1,0 +1,9 @@
+cat level1.py 
+
+if(user_pw == <pass in Hex>) 
+
+that's the pass. run - 
+
+python3 level1.py leve1.flag.txt.enc 
+
+and enter the pass and voila!

@@ -1,0 +1,7 @@
+Run 
+
+python3 ende.py -d flag.txt.en
+
+Enter the password from pw.txt
+
+picoCTF{4p0110_1n_7h3_h0us3_68f88f93}

@@ -1,0 +1,9 @@
+Will need a SSH terminal for this.
+
+Run- 
+
+ssh ctf-player@titan.picoctf.net -p 60023
+
+give the password and you'll get the key
+
+picoCTF{s3cur3_c0nn3ct10n_65a7a106}

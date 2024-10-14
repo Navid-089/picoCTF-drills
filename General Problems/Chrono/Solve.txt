@@ -1,0 +1,5 @@
+ssh picoplayer@saturn.picoctf.net -p 63714
+
+cat /etc/crontab
+
+in linux, chrontab holds the executions that are done with intervals.

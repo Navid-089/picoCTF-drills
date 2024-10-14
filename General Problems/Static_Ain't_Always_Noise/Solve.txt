@@ -1,0 +1,6 @@
+Run- 
+
+chmod +x ltdis.sh
+./ltdis.sh static
+
+From static.ltdis.strings.txt, search with "pico..."

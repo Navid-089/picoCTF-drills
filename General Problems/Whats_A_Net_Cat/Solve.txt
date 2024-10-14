@@ -1,0 +1,3 @@
+Go to webshell 
+
+nc jupiter.challenges.picoctf.org 25103

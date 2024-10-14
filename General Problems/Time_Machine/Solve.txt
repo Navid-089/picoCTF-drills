@@ -1,0 +1,7 @@
+Go to the folder and run- 
+
+git log 
+
+
+
+ picoCTF{t1m3m@ch1n3_8defe16a}

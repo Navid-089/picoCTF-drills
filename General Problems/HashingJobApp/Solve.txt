@@ -1,0 +1,5 @@
+run
+
+nc saturn.picoctf.net 62370 
+
+use cyberchef's MD5 hash to decode the questions and voila! 

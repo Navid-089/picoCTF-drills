@@ -1,0 +1,7 @@
+run 
+
+find . -name "uber-secret.txt" 
+
+then go to the location using ls -a and cd  and 
+
+cat uber-secret.txt 

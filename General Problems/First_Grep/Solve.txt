@@ -1,0 +1,3 @@
+Run 
+
+strings file | grep pico

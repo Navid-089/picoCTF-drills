@@ -1,0 +1,5 @@
+run 
+
+nc saturn.picoctf.net 53344
+
+run the chr()s in cyberchef with From Hex

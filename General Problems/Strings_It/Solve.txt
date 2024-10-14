@@ -1,0 +1,5 @@
+Run- 
+
+string strings 
+strings strings | grep pico
+

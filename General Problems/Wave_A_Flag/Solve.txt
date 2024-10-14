@@ -1,0 +1,3 @@
+Run the 'warm' file in wsl/linux terminal. It will say "give me -h". run with .\warm -h and you'll get the key.
+
+picoCTF{b1scu1ts_4nd_gr4vy_6635aa47}

@@ -1,0 +1,5 @@
+Add a while(True) loop before the checking.
+
+python3 level3.py level3.flag.txt.enc level3.hash.bin 
+
+now, input the array of passwords 
